@@ -17,7 +17,7 @@ const Home: NextPage = ({ currentPhoto }: { currentPhoto: ImageProps }) => {
   return (
     <>
       <Head>
-        <title>Next.js Conf 2022 Photos</title>
+        <title>社会福祉法人ほほえみ 2023.09.04撮影</title>
         <meta property="og:image" content={currentPhotoUrl} />
         <meta name="twitter:image" content={currentPhotoUrl} />
       </Head>
